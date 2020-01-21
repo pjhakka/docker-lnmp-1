@@ -12,3 +12,6 @@ explicit_defaults_for_timestamp=true
 
 # PJ add for import .sql size.
 max_allowed_packet=1024M
+
+# 表名 0：區分大小寫，1：不區分大小寫
+lower_case_table_names=1
